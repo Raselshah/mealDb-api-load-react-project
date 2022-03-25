@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightcoral;
+}
+.logo-area h2{
+    color : #fff;
+    cursor: pointer;
+}
+.logo-color{
+    color: lemonchiffon;
+}
+.menu-area ul{
+    display: flex;
+}
+.menu-area li {
+    list-style: none;
+    padding: 0 10px;
+}
+.menu-area a{
+    text-decoration: none;
+    color: #fff;
+}
+.menu-area a:hover{
+    color: lightsalmon;
+}
